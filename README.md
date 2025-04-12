@@ -1,6 +1,3 @@
-# Let's create the Markdown file based on the structure provided above.
-
-content = """
 # Python Revision Tour
 
 ## 1.1 Introduction
